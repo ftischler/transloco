@@ -53,6 +53,7 @@
     "core-js": "^2.5.4",
     "flat": "^5.0.2",
     "git-cz": "^3.2.1",
+    "intl-messageformat": "^9.3.12",
     "lodash.omitby": "^4.6.0",
     "messageformat": "2.3.0",
     "rxjs": "~6.3.3",
